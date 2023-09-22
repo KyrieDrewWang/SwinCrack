@@ -3,6 +3,6 @@
 Cheng Wang, Haibing Liu, Xiaoya An, Zhiqun Gong, Fei Deng
 
 
-![pic-exp](ExpFig\Fig_attn_vis.png)
+![pic-exp](exp.jpg)
 
 This is the archive of SwinCrack.
