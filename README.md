@@ -5,4 +5,4 @@ Cheng Wang, Haibing Liu, Xiaoya An, Zhiqun Gong, Fei Deng
 
 ![pic-exp](exp.jpg)
 
-This is the archive of SwinCrack.
+This is the archive of SwinCrack. Codes refer to https://github.com/KyrieDrewWang/CrackLab
